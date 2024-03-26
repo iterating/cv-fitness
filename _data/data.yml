@@ -1,22 +1,22 @@
+
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Jonathan Young 
-    tagline: Passionate about creating intuitive interfaces that enhance user experiences and drive engagement
-    avatar: 
-    avatar: # Profile(100x100).jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Jonathan "Jinn" Young
+    tagline: Mixing up conversations and cocktails with a smile
+    avatar: Profile(100x100).jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: jyoung0696@gmail.com
-    phone: 626 626 0656
+    phone: 626 662 0656
     timezone: Pacific Time
     citizenship: US
-    website: iterating.github.io/cv-design #do not add http://
+    website: jonathanyoungdesign.wordpress.com #do not add http://
     linkedin: 
     xing: 
-    github: Iterating
+    github: iterating
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -24,109 +24,132 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    # pdf: 
+    pdf: 
+
+    languages:
+      title: Languages
+      info:
+        - idiom: English
+          level: Native
+
+        - idiom: Chinese
+          level: Professional
 
     interests:
       title: Interests
       info:
         - item: Photography
-          link: 
+          link:
+
         - item: Fitness
           link:
+
         - item: Cooking
           link:
 
-career-profile:
-    title: Why me?
-    summary: |
-      I am a creative and user-centric UI/UX designer with a passion for crafting intuitive and engaging digital experiences. With a strong foundation in both technical skills and design principles, I excel in prototyping, wireframing, and user testing to deliver solutions that meet user needs and business objectives. I thrive in collaborative environments and am dedicated to continuous learning and innovation in the field of UI/UX design.
+# career-profile:
+#   title: Career Profile
+#   summary: |
+      
 education:
     title: Education
     info:
-      - degree: Choate Rosemary Hall
-
       - degree: Tufts University
         university: B.Sc., Biology and Chemistry
         time: 2007 - 2010
         details: |
-          - Magna cum laude with Thesis Honors
-          - Capstone in Computer Aided Design
-          - American Mathematics Competition finalist
-            -  Competency in Combinatorics
+           Magna cum laude with Thesis Honors, 
+           Capstone project in 3D design, 
+           President, Chinese Students Association
+
       - degree: UMass Chan Medical School
         university: Medicine
         time: 2015 - 2019
         details: |
-          Winner, American College of Physicians National Abstract Competition
-
+           Winner, American College of Physicians National Abstract Competition
 experiences:
     title: Experiences
     info:
-      - role: Freelance UI/UX Designer & Web Developer
+      - role: Professional Bartender
+        time: 2023 - Present
+        company: Luxy Craft Cocktail Bar and KTV, Arcadia CA
+        details: |
+          Energetic and customer-focused bartender with a passion for crafting unforgettable experiences through exceptional service and finely crafted cocktails. 
+          - Proven track record of creating welcoming environments and delivering personalized service to diverse clientele. 
+          - Skilled in maintaining bar cleanliness, managing inventory, and collaborating with team members to ensure seamless operations. 
+          - Adept at working in fast-paced environments while maintaining a keen attention to detail. Dedicated to continuously enhancing beverage knowledge and staying updated on industry trends. Ready to contribute dynamic bartending skills to elevate the guest experience at your establishment.
+          - RBS License 313380293
+
+      - role: Private Event Bartender
+        time: 2022 - Present
+        company: Los Angeles CA
+        details: |
+        - Spearhead the operation of a dynamic mobile full-service bar, delivering top-tier service and entertainment at exclusive anime convention afterparties.
+        - Orchestrated the seamless service for 200 guests at the Anime Expo Westin deck afterparty, distinguished as one of the largest and most celebrated anime convention afterparties.
+        - Conceptualize and execute innovative themed drink menus, infusing creativity and excitement into each event's beverage offerings.
+        - Supervise and mentor barback staff to optimize productivity and uphold service standards during high-volume periods.
+        - Earned trust and commendations from hotel management for meticulous bar closure procedures and post-event cleanup, solidifying a reputation for reliability and professionalism.
+
+      - role: Professional Bartender
+        time: 2015-2016
+        company: Baba Sushi, Worcester MA
+        details: |
+          "Modern and hip bar, choosing from an extensive selection of sakes or sipping on meticulously crafted specialty martinis. Baba Sushi offers a total sensory feast."
+          - Engage with patrons in a personable and attentive manner, providing recommendations, sharing knowledge about various spirits and cocktails, and customizing drinks to individual preferences.
+          Maintain a well-organized and clean bar area, adhering to health and safety regulations and ensuring all equipment is properly maintained for optimal functionality.
+          - Collaborate with kitchen staff to coordinate food and beverage service, ensuring seamless communication and timely delivery of orders to enhance overall guest satisfaction.
+          - Handle cash and credit transactions accurately and efficiently, balancing cash drawers and maintaining strict adherence to cash-handling procedures.
+
+      - role: Barback
+        time: 2014-2015
+        company: Baba Sushi, Worcester MA
+        details: |
+        - Ensure optimal bar functionality by consistently stocking ice, liquor, wine, and beer to meet customer demand.
+        - Assist with opening and closing procedures, including restocking garnishes, straws, napkins, clean towels, and glassware to maintain a well-organized bar setup.
+        - Uphold cleanliness standards by sanitizing surfaces, sweeping, mopping, removing soiled glassware, scrubbing coolers and storage areas, and emptying trash to create a hygienic and inviting environment for guests.
+        - Provide exceptional customer service during peak hours by promptly taking orders, preparing drinks, bussing tables, opening tabs, and efficiently processing payments to enhance the overall guest experience.
+
+      - role: Designer
         time: 2020 - Present
         company: Young Design
         details: |
           - Lead the end-to-end design and development of responsive websites, prioritizing user experience and usability to meet client business objectives.
           - Conduct comprehensive user research, creating wireframes and prototypes to validate design concepts and iterate based on feedback.
           - Employ industry-standard design tools including Figma, Illustrator, and Photoshop to craft visually appealing and intuitive user interfaces.
-          - Implement SEO best practices and optimized websites for performance and accessibility
-          - Utilize Blender and 3D Max to produce high-quality 3D models and renders of client products, enhancing their visual appeal and marketability.
-          - Collaborate closely with clients to understand their unique business goals and translate them into effective design solutions, ensuring alignment with brand identity and target audience.
-
-      - role: UX Design, Software testing and quality assurance
-        time: 2020 - 2023
-        company: Dendron, Seattle WA 
+  
+        role: Freelance Model
+        time: 2023
+        company:  Los Angeles
         details: |
-          Dendron is a next-generation, full-featured notetaking system built in Typescript.
-          - Conduct user interviews and usability tests to gather actionable feedback, informing design decisions and driving product improvements.
-          - Create intuitive UI mockups aligned with user needs and product objectives, iterating designs based on user feedback and research findings.
-          - Continuously enhance application usability and functionality based on collected user feedback and research insights, contributing to improved user satisfaction and engagement.
-          - Collaborate closely with cross-functional engineering teams to maintain high product quality and ensure seamless integration of design elements.
-
-      - role: UX Design
-        time: 2017 - 2019
-        company: Vecna Healthcare, Burlington MA
-        details: |
-          - Translate complex clinical workflows into intuitive user interfaces, collaborating with engineering teams to design and prototype solutions that streamline healthcare operations and improve patient care outcomes.
-          - Conduct thorough usability testing and gather user feedback to identify pain points and areas for improvement, resulting in iterative design enhancements and increased user satisfaction.
-          - Administer and maintain IT infrastructure to ensure reliable access to healthcare applications, optimizing system performance and minimizing downtime.
-          - Make significant improvements to clinical infrastructure, achieving uptime close to 100% and minimizing disruptions to critical healthcare operations.
- 
-      - role: Technology administrator
-        time: 2012 - 2014
-        company: Tufts University Eliot-Pearson School, Medford MA 
-        details: |
-          Managing and maintaining critical IT infrastructure with effective diagnostic and problem solving abilities.
-          - Implement and enforce IT policies and procedures to enhance system reliability and compliance with industry standards, minimizing security risks and vulnerabilities.
-          - Collaborate with vendors to resolve technical issues promptly, ensuring minimal disruptions to operations and maintaining high levels of user satisfaction.
-          - Document IT processes and configurations meticulously, maintaining comprehensive records for future reference and audit purposes.
-          - Manage photography and videography equipment, ensuring availability and functionality for educational purposes and special events.
-          - Demonstrate exceptional cross-functional collaboration, working closely with teams to assess needs, develop solutions, and deliver exceptional support.
-
-      - role: Researcher
-        time: 2010-2012
-        company: Massachusetts General Hospital Boston MA 
-        details: |
-          Investigate the use of chemokine-based local immunosuppression in islet transplantation, contributing to successful publication and advancing scientific understanding in the field. 
-          - Present reports of complex multidimensional quantitative data to principal investigator, informing direction of future development.
-          - Develop 'Cellbot', an automated cell counting program in Java and ImageJ, accelerating data collection and enhancing lab efficiency. 
-          - Publication: [Alginate encapsulant incorporating CXCL12 supports long term allo and xenoislet transplantation without systemic immune suppression.](https://pubmed.ncbi.nlm.nih.gov/25693473/) **American Journal of Transplantation**, 2015, DOI 10.1111/ajt.13049
-
+          - Modeling for fashion and concept shoots
+          - Directing set and lighting design
 skills:
     title: Skills
 
     toolset:
-      - name:  Virtualbox, VMWare, ESXi, KVM, Proxmox, Hypervisor, Docker 
+      - name: Figma
+
+      - name: Blender & 3D Max
+
+      - name: HTML5 & CSS
+
+      - name: Git/Github
+
+      - name: SQL
+
+      - name: Sketch & Photoshop
+
+      - name: Virtualbox & VMWare
 
       - name: Linux/Apache/MySQL/PHP
 
-      - name: Cloud- AWS, Azure
+      - name: Red Hat System Administration
+              170-077-016
 
-      - name: Red Hat System Administration 170-077-016
+      - name: RBS Alcohol Server 
+              313380293
 
-      - name:  Figma, Ilustrator, Photoshop 
 
-      - name:  Tableau, Excel, SPSS, Python 
 
 footer: >
-    Designed by <a href="http://jonathanyoungdesign.wordpress.com" target="_blank" rel="nofollow">J Young Design</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://jonathanyoungdesign.wordpress.com" target="_blank" rel="nofollow">Jonathan Young Design</a>
