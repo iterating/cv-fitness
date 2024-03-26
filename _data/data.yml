@@ -84,11 +84,11 @@ experiences:
         time: 2022 - Present
         company: Los Angeles CA
         details: |
-        - Spearhead the operation of a dynamic mobile full-service bar, delivering top-tier service and entertainment at exclusive anime convention afterparties.
-        - Orchestrated the seamless service for 200 guests at the Anime Expo Westin deck afterparty, distinguished as one of the largest and most celebrated anime convention afterparties.
-        - Conceptualize and execute innovative themed drink menus, infusing creativity and excitement into each event's beverage offerings.
-        - Supervise and mentor barback staff to optimize productivity and uphold service standards during high-volume periods.
-        - Earned trust and commendations from hotel management for meticulous bar closure procedures and post-event cleanup, solidifying a reputation for reliability and professionalism.
+          - Spearhead the operation of a dynamic mobile full-service bar, delivering top-tier service and entertainment at exclusive anime convention afterparties.
+          - Orchestrated the seamless service for 200 guests at the Anime Expo Westin deck afterparty, distinguished as one of the largest and most celebrated anime convention afterparties.
+          - Conceptualize and execute innovative themed drink menus, infusing creativity and excitement into each event's beverage offerings.
+          - Supervise and mentor barback staff to optimize productivity and uphold service standards during high-volume periods.
+          - Earned trust and commendations from hotel management for meticulous bar closure procedures and post-event cleanup, solidifying a reputation for reliability and professionalism.
 
       - role: Professional Bartender
         time: 2015-2016
@@ -104,10 +104,10 @@ experiences:
         time: 2014-2015
         company: Baba Sushi, Worcester MA
         details: |
-        - Ensure optimal bar functionality by consistently stocking ice, liquor, wine, and beer to meet customer demand.
-        - Assist with opening and closing procedures, including restocking garnishes, straws, napkins, clean towels, and glassware to maintain a well-organized bar setup.
-        - Uphold cleanliness standards by sanitizing surfaces, sweeping, mopping, removing soiled glassware, scrubbing coolers and storage areas, and emptying trash to create a hygienic and inviting environment for guests.
-        - Provide exceptional customer service during peak hours by promptly taking orders, preparing drinks, bussing tables, opening tabs, and efficiently processing payments to enhance the overall guest experience.
+          - Ensure optimal bar functionality by consistently stocking ice, liquor, wine, and beer to meet customer demand.
+          - Assist with opening and closing procedures, including restocking garnishes, straws, napkins, clean towels, and glassware to maintain a well-organized bar setup.
+          - Uphold cleanliness standards by sanitizing surfaces, sweeping, mopping, removing soiled glassware, scrubbing coolers and storage areas, and emptying trash to create a hygienic and inviting environment for guests.
+          - Provide exceptional customer service during peak hours by promptly taking orders, preparing drinks, bussing tables, opening tabs, and efficiently processing payments to enhance the overall guest experience.
 
       - role: Designer
         time: 2020 - Present
@@ -148,8 +148,6 @@ skills:
 
       - name: RBS Alcohol Server 
               313380293
-
-
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://jonathanyoungdesign.wordpress.com" target="_blank" rel="nofollow">Jonathan Young Design</a>
