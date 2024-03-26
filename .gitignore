@@ -4,5 +4,6 @@ _site/
 .jekyll-cache
 */data-bar.yml
 */data-data.yml
+*/data-design.yml
 */data-tech.yml
 */data-it.yml
