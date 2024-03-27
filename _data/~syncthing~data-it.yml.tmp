@@ -92,7 +92,7 @@ experiences:
           - Conduct usability testing and collect feedback from clinical end-users to identify pain points and areas for improvement, resulting in iterative design enhancements.
           - Administer and maintain Ubuntu and Debian laptops and tablets used in clinical settings, ensuring reliable and secure access to essential healthcare applications.
           - Utilize Virtualbox and Ansible to ensure that software packages, dependencies, and configurations are up to date, enhancing system stability and security.
-          - Make significant improvements to clinical infrastructure, achieving uptime close to 100% and minimizing disruptions to critical healthcare operations.  
+          - Make significant improvements to clinical infrastructure, achieving uptime close to 100% and minimizing disruptions to critical healthcare operations.
  
       - role: Technology administrator
         time: 2012 - 2014
@@ -129,8 +129,15 @@ skills:
 
       - name: Cloud- AWS, Azure
 
-      - name: Red Hat Certified System Administrator
+      - name: Red Hat System Administration
               170-077-016
 
 footer: >
     Designed by <a href="http://jonathanyoungdesign.wordpress.com" target="_blank" rel="nofollow">J Young Design</a>
+
+
+# 500 Yale Ave, Seattle WA, 98109 Kevin Lin 8324132879 kevinlin@dendron.so
+       
+# 1 Burlington Woods Dr Burlington, MA 01803 Mary Rocheleau, Director of product +1 617-864-0636
+      
+# Tufts 105 College Ave, Medford, MA 02155 Justina Clayton Administrative Coordinator Justina.Clayton@tufts.edu
