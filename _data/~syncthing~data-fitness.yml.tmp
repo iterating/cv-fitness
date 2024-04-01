@@ -6,7 +6,7 @@ sidebar:
     name: Jonathan Young 
     tagline: Bringing together medical knowledge, approachable support, and sales savvy to elevate clients' fitness journey with expertise and warmth
     avatar: 
-    avatar: profile-fitness.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: # Profile(100x100).jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: jyoung0696@gmail.com
@@ -27,18 +27,19 @@ sidebar:
     # pdf: 
 
     interests:
-      title: Certifications
+      title: 
       info:
-        - item: Certified Personal Trainer, National Academy of Sports Medicine
+        - item: 
           link: 
-        - item: Certified Nutrition Coach, National Academy of Sports Medicine
-        - item: Certified Functional Aging Specialist, Functional Aging Institute
-        - item: Certified Functional Core and Balance, Functional Aging Institute
+        - item: 
+          link:
+        - item: 
+          link:
 
 career-profile:
     title: Why me?
     summary: |
-      Highly motivated and dedicated Certified Personal Trainer with a strong background in medical science and a passion for helping clients achieve their fitness goals. Known for providing personalized training programs tailored to individual needs and abilities, along with exceptional customer service and sales skills to drive client satisfaction and business growth. Working knowledge of Chinese, as well as education and certifications in functional aging positions me well to convert potential clients.  
+      Highly motivated and dedicated Certified Personal Trainer with a strong background in medical science and a passion for helping clients achieve their fitness goals. Known for providing personalized training programs tailored to individual needs and abilities, along with exceptional customer service and sales skills to drive client satisfaction and business growth.
 education:
     title: Education
     info:
@@ -59,8 +60,8 @@ experiences:
     title: Experiences
     info:
       - role: Personal Trainer
-        time: 2018 - 2019
-        company: Boston Athletic Club
+        time: 2019 - 2020
+        company: YMCA
         details: |
         - Conduct comprehensive fitness assessments for clients to determine their current fitness levels, goals, and any limitations.
         - Develop individualized exercise programs tailored to clients' specific needs, preferences, and fitness goals.
@@ -71,9 +72,9 @@ experiences:
         - Maintain a clean, organized, and welcoming workout environment, ensuring equipment safety and sanitation standards are upheld at all times.
         - Collaborate with club management and fellow trainers to promote fitness programs, events, and services, contributing to the overall success and growth of the club.
  
-      - role: Front Desk Supervisor
-        time: 2012 - 2013
-        company: Boston Athletic Club, Boston MA
+      - role: Sales Representative
+        time: 2019 - 2020
+        company: YMCA
         details: |
           - Successfully generated leads and expanded client base through strategic prospecting and networking efforts.
           - Developed and implemented effective sales strategies to meet and exceed sales targets, resulting in a [percentage] increase in revenue.
@@ -83,8 +84,8 @@ experiences:
           - Collaborated with cross-functional teams to address client needs and resolve any issues or concerns in a timely manner.
 
       - role: Sales Representative
-        time: 2013 - 2015
-        company: Sanova Biotechnologies
+        time: 2019 - 2020
+        company: Boston Athletic Club
         details: |
           - Successfully generated leads and expanded client base through strategic prospecting and networking efforts.
           - Developed and implemented effective sales strategies to meet and exceed sales targets, resulting in a [percentage] increase in revenue.
@@ -92,6 +93,7 @@ experiences:
           - Conducted product demonstrations and presentations to educate clients on product features, benefits, and value proposition.
           - Negotiated contracts and closed sales deals with clients, consistently achieving high conversion rates.
           - Collaborated with cross-functional teams to address client needs and resolve any issues or concerns in a timely manner.
+
 
       - role: Competitive Dragonboater
         time: 2018 - 2020
@@ -111,9 +113,11 @@ skills:
       - name: Outstanding interpersonal and relationship-building abilities
       - name: Proficient in CRM software and Microsoft Office suite
       - name: Sales experience in promoting training packages and additional services
+    title: Certifications
+    toolset:
+      - name:  Certified Functional Aging Specialist, Functional Aging Institute
+      - name: Certified Functional Aging Specialist, Functional Aging Institute
+
 
 footer: >
     Designed by <a href="http://jonathanyoungdesign.wordpress.com" target="_blank" rel="nofollow">J Young Design</a>
-
-
-# Boston Athletic Club 653 Summer St, Boston, MA 02210

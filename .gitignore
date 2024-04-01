@@ -2,8 +2,12 @@ _site/
 .sass-cache/
 .jekyll-metadata
 .jekyll-cache
-*/data-bar.yml
-*/data-data.yml
-*/data-design.yml
-*/data-tech.yml
 */data-it.yml
+*/data-design.yml
+*/data-pharm.yml
+*/data-tech.yml
+*/data-data.yml
+*/data-bar.yml
+*/data-fitness.yml
+*/experiences.md
+*/references.md
